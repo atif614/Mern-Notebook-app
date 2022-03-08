@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mern-Notebook-app/static/css/main.1638f065.chunk.css",
+    "main.js": "/Mern-Notebook-app/static/js/main.b79d5d72.chunk.js",
+    "main.js.map": "/Mern-Notebook-app/static/js/main.b79d5d72.chunk.js.map",
+    "runtime-main.js": "/Mern-Notebook-app/static/js/runtime-main.9a0333cc.js",
+    "runtime-main.js.map": "/Mern-Notebook-app/static/js/runtime-main.9a0333cc.js.map",
+    "static/js/2.95f04ccb.chunk.js": "/Mern-Notebook-app/static/js/2.95f04ccb.chunk.js",
+    "static/js/2.95f04ccb.chunk.js.map": "/Mern-Notebook-app/static/js/2.95f04ccb.chunk.js.map",
+    "index.html": "/Mern-Notebook-app/index.html",
+    "static/css/main.1638f065.chunk.css.map": "/Mern-Notebook-app/static/css/main.1638f065.chunk.css.map",
+    "static/js/2.95f04ccb.chunk.js.LICENSE.txt": "/Mern-Notebook-app/static/js/2.95f04ccb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0333cc.js",
+    "static/js/2.95f04ccb.chunk.js",
+    "static/css/main.1638f065.chunk.css",
+    "static/js/main.b79d5d72.chunk.js"
+  ]
+}
